@@ -18,7 +18,7 @@
 
 - PTA NHI
 
-### 🌱 I’m Was Working On:
+### 🌱 I Was Working On:
 
 - 🔭  **PW JARVIS**
 
